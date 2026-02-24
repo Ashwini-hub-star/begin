@@ -3,4 +3,4 @@
 int main() {
     printf("Hello GitHub\n");
     return 0;
-}
+git status
